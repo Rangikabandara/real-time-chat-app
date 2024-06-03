@@ -25,7 +25,7 @@ The frontend-ui is based on Flexbox, no external UI libraries are used
 Step 1: Clone the repo
 
 ```bash
-git clone 
+git clone https://github.com/Rangikabandara/real-time-chat-app.git
 ```
 
 Step 2: cd into the cloned repo and run:
